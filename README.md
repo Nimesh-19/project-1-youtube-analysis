@@ -77,5 +77,22 @@ Key queries include:
 
 ---
 
+## Dataset
+
+The dataset used in this project is not included in this repository due to its large size.
+
+Original files used:
+- US_Trending.csv
+- IN_Trending.csv
+- GB_Trending.csv
+- CA_Trending.csv
+- combined_youtube_data.csv
+
+Download Dataset:
+https://www.kaggle.com/datasets/bsthere/youtube-trending-videos-stats-2026
+After downloading, place the CSV files inside the `dataset/` folder.
+
+---
+
 ## 📌 Conclusion
 This analysis highlights how content category, audience region, and sentiment impact video performance. These insights can help creators and marketers optimize their content strategy.
